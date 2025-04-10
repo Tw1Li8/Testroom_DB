@@ -1,0 +1,13 @@
+# ninja log v6
+538	1000	7657033691362029	Testroom.exe	32d74bd4b75abcbc
+8	134	7653432780779105	CMakeFiles/Testroom.dir/main.c.obj	50c5070c2db4fd4e
+107	537	7657033687053084	CMakeFiles/Testroom.dir/DB_start_1.c.obj	9928994826e26e8a
+20	462	7657108900466754	build.ninja	5c5b96fafd66adcf
+39	192	7657110593620196	CMakeFiles/Testroom.dir/DB_start_1.c.obj	9928994826e26e8a
+193	390	7657110595153858	Testroom.exe	32d74bd4b75abcbc
+46	210	7657116178031941	CMakeFiles/Testroom.dir/DB_start_1.c.obj	9928994826e26e8a
+211	449	7657116179686285	Testroom.exe	32d74bd4b75abcbc
+7	134	7657117090642456	CMakeFiles/Testroom.dir/DB_start_1.c.obj	9928994826e26e8a
+144	309	7657117092011203	Testroom.exe	32d74bd4b75abcbc
+6	129	7657118528817975	CMakeFiles/Testroom.dir/DB_start_1.c.obj	9928994826e26e8a
+130	304	7657118530065451	Testroom.exe	32d74bd4b75abcbc

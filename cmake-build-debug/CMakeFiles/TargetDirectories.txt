@@ -1,0 +1,3 @@
+C:/Users/yejun/CLionProjects/Testroom/cmake-build-debug/CMakeFiles/Testroom.dir
+C:/Users/yejun/CLionProjects/Testroom/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yejun/CLionProjects/Testroom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
